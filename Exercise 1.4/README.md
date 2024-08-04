@@ -80,6 +80,6 @@ These screenshots are named appropriately, such as "Part 1 Step 1," "Part 2 Step
 
 ## Submission
 
-All the deliverables are uploaded to my GitHub repository. Here is the link to my repository: [GitHub Repo Link]
+All the deliverables are uploaded to my GitHub repository.
 
 Thank you for reviewing my project!
